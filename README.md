@@ -6,10 +6,10 @@
 
 <p>
   <a href="https://tshirtmish.netlify.app/">
-    <img src="https://iili.io/29rkF3P.md.png" width="320"  />
+    <img src="https://iili.io/dwmVXOG.png" width="320"  />
   </a>
   <a href="https://trypearai.vercel.app/">
-    <img src="https://iili.io/29rOPg1.md.png" width="320"  />
+    <img src="https://iili.io/dwmkg72.png" width="320"  />
   </a>
   <a href="https://petpy.vercel.app/">
     <img src="https://iili.io/29rEJBs.md.png" width="320"  />
