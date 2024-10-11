@@ -15,7 +15,7 @@
     <img src="https://iili.io/29rEJBs.md.png" width="360"  />
   </a>
   <a href="https://foodmish.vercel.app/?kategori=tumu">
-    <img src="https://iili.io/dwm8TAB.png" width="360"  />
+    <img src="https://iili.io/29rh58J.md.png" width="360"  />
   </a>
 </p>
 
